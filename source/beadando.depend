@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610562232 source:/home/norbert/Asztal/cppbeadando/beadando/main.cpp
+	<iostream>
+	<list>
+	<iterator>
+	<fstream>
+
